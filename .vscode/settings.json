@@ -1,5 +1,15 @@
 {
     "files.associations": {
         "cstdlib": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "dyno",
+        "fdata",
+        "fprofile",
+        "hfsort",
+        "lpgo",
+        "profdata",
+        "profraw",
+        "Truf"
+    ]
 }

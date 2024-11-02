@@ -1,4 +1,5 @@
 apt install llvm-dev -y
+apt install clang -y
 git clone https://github.com/llvm/llvm-project.git
 mkdir bolt-build
 cd bolt-build
